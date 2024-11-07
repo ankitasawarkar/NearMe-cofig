@@ -1,0 +1,11 @@
+build:
+  version: "1.1.0"
+
+account:
+  message: "Welcome to NearMe accounts related local APIs "
+  contactDetails:
+    name: "Ankita - Developer"
+    email: "ankita@nearme.com"
+  onCallSupport:
+    - (563) 555-1234
+    - (563) 523-1345

@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "1.3.0"
+
+account:
+  message: "Welcome to NearMe accounts related prod APIs "
+  contactDetails:
+    name: "Ansh - Prod Lead"
+    email: "ansh@near.com"
+  onCallSupport:
+    - (444) 555-1234
+    - (444) 523-1345

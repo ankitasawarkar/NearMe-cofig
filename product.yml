@@ -1,0 +1,8 @@
+product:
+  message: "Welcome to NearMe product related local APIs "
+  contactDetails:
+    name: "Ankita - Developer"
+    email: "ankita@nearme.com"
+  onCallSupport:
+    - (563) 555-1234
+    - (563) 523-1345
