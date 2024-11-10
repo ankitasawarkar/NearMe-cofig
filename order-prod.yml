@@ -2,7 +2,7 @@ build:
   version: "2.3.0"
 
 order:
-  message: "Welcome to NearMe order related prod APIs "
+  message: "Welcome to NearMe order related production APIs "
   contactDetails:
     name: "Ansh - Prod Lead"
     email: "ansh@near.com"
