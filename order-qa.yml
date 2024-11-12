@@ -2,7 +2,7 @@ build:
   version: "2.2.0"
 
 order:
-  message: "Welcome to NearMe order related QA APIs "
+  message: "Welcome to NearMe order related webhook APIs "
   contactDetails:
     name: "Ankush - QA Lead"
     email: "ankush@nearme.com"
