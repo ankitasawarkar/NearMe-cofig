@@ -1,0 +1,11 @@
+build:
+  version: "4.3.0"
+
+product:
+  message: "Welcome to NearMe catalog related prod APIs "
+  contactDetails:
+    name: "Ansh - Prod Lead"
+    email: "ansh@near.com"
+  onCallSupport:
+    - (444) 555-1234
+    - (444) 523-1345

@@ -1,0 +1,11 @@
+build:
+  version: "4.2.0"
+
+product:
+  message: "Welcome to NearMe catalog related QA APIs "
+  contactDetails:
+    name: "Ankush - QA Lead"
+    email: "ankush@nearme.com"
+  onCallSupport:
+    - (666) 2555-1234
+    - (666) 523-1345
